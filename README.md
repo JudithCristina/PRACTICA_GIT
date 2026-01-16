@@ -90,4 +90,4 @@ dashboard-ventas-retail/
 | Ticket Promedio | Valor promedio por transacción |
 | Productos Vendidos | Cantidad total de unidades |
 | Tasa de Conversión | Porcentaje de visitantes que compran |
-
+Estos es una prueba
